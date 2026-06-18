@@ -1,0 +1,13 @@
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/controller/UserManagementController.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/model/RegisterRequest.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/service/UserManagementService.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/service/IUserManagementService.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/client/UserProfileClient.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/model/GatewayResponse.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/model/UserAccountResponse.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/model/User.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/client/AuthenticationClient.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/model/LoginRequest.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/model/UserProfile.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/UserManagementGatewayApplication.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/main/java/com/jobseekercopilot/usermanagementgateway/model/LoginResponse.java

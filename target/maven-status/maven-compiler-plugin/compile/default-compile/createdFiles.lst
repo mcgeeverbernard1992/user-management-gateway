@@ -1,0 +1,13 @@
+com/jobseekercopilot/usermanagementgateway/model/GatewayResponse.class
+com/jobseekercopilot/usermanagementgateway/controller/UserManagementController.class
+com/jobseekercopilot/usermanagementgateway/model/LoginResponse.class
+com/jobseekercopilot/usermanagementgateway/model/UserAccountResponse.class
+com/jobseekercopilot/usermanagementgateway/UserManagementGatewayApplication.class
+com/jobseekercopilot/usermanagementgateway/client/AuthenticationClient.class
+com/jobseekercopilot/usermanagementgateway/client/UserProfileClient.class
+com/jobseekercopilot/usermanagementgateway/model/User.class
+com/jobseekercopilot/usermanagementgateway/model/RegisterRequest.class
+com/jobseekercopilot/usermanagementgateway/service/IUserManagementService.class
+com/jobseekercopilot/usermanagementgateway/model/UserProfile.class
+com/jobseekercopilot/usermanagementgateway/model/LoginRequest.class
+com/jobseekercopilot/usermanagementgateway/service/UserManagementService.class

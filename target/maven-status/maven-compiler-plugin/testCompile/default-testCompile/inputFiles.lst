@@ -1,0 +1,4 @@
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/test/java/com/jobseekercopilot/usermanagementgateway/controller/UserManagementControllerTest.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/test/java/com/jobseekercopilot/usermanagementgateway/client/AuthenticationClientTest.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/test/java/com/jobseekercopilot/usermanagementgateway/service/UserManagementServiceTest.java
+/home/bernard-mcgeever/Workspace/give-it-a-bash/job-seeker-copilot/user-management-gateway/src/test/java/com/jobseekercopilot/usermanagementgateway/client/UserProfileClientTest.java
