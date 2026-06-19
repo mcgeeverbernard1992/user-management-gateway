@@ -1,0 +1,4 @@
+com/jobseekercopilot/usermanagementgateway/client/UserProfileClientTest.class
+com/jobseekercopilot/usermanagementgateway/client/AuthenticationClientTest.class
+com/jobseekercopilot/usermanagementgateway/service/UserManagementServiceTest.class
+com/jobseekercopilot/usermanagementgateway/controller/UserManagementControllerTest.class
